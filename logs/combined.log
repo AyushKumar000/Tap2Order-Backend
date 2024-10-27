@@ -1,0 +1,930 @@
+{"level":"info","message":"========================================","timestamp":"2024-10-25 20:43:49"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-25 20:43:49"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-25 20:43:49"}
+{"level":"info","message":"========================================","timestamp":"2024-10-25 20:43:49"}
+{"level":"info","message":"========================================","timestamp":"2024-10-25 20:46:16"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-25 20:46:16"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-25 20:46:16"}
+{"level":"info","message":"========================================","timestamp":"2024-10-25 20:46:16"}
+{"0":"C","1":"o","10":"c","100":"i","101":"n","102":"g","103":" ","104":"t","105":"o","106":" ","107":"a","108":"c","109":"c","11":"o","110":"e","111":"s","112":"s","113":" ","114":"t","115":"h","116":"e","117":" ","118":"d","119":"a","12":"n","120":"t","121":"a","122":"b","123":"a","124":"s","125":"e","126":" ","127":"f","128":"r","129":"o","13":"n","130":"m","131":" ","132":"a","133":"n","134":" ","135":"I","136":"P","137":" ","138":"t","139":"h","14":"e","140":"a","141":"t","142":" ","143":"i","144":"s","145":"n","146":"'","147":"t","148":" ","149":"w","15":"c","150":"h","151":"i","152":"t","153":"e","154":"l","155":"i","156":"s","157":"t","158":"e","159":"d","16":"t","160":".","161":" ","162":"M","163":"a","164":"k","165":"e","166":" ","167":"s","168":"u","169":"r","17":" ","170":"e","171":" ","172":"y","173":"o","174":"u","175":"r","176":" ","177":"c","178":"u","179":"r","18":"t","180":"r","181":"e","182":"n","183":"t","184":" ","185":"I","186":"P","187":" ","188":"a","189":"d","19":"o","190":"d","191":"r","192":"e","193":"s","194":"s","195":" ","196":"i","197":"s","198":" ","199":"o","2":"u","20":" ","200":"n","201":" ","202":"y","203":"o","204":"u","205":"r","206":" ","207":"A","208":"t","209":"l","21":"a","210":"a","211":"s","212":" ","213":"c","214":"l","215":"u","216":"s","217":"t","218":"e","219":"r","22":"n","220":"'","221":"s","222":" ","223":"I","224":"P","225":" ","226":"w","227":"h","228":"i","229":"t","23":"y","230":"e","231":"l","232":"i","233":"s","234":"t","235":":","236":" ","237":"h","238":"t","239":"t","24":" ","240":"p","241":"s","242":":","243":"/","244":"/","245":"w","246":"w","247":"w","248":".","249":"m","25":"s","250":"o","251":"n","252":"g","253":"o","254":"d","255":"b","256":".","257":"c","258":"o","259":"m","26":"e","260":"/","261":"d","262":"o","263":"c","264":"s","265":"/","266":"a","267":"t","268":"l","269":"a","27":"r","270":"s","271":"/","272":"s","273":"e","274":"c","275":"u","276":"r","277":"i","278":"t","279":"y","28":"v","280":"-","281":"w","282":"h","283":"i","284":"t","285":"e","286":"l","287":"i","288":"s","289":"t","29":"e","290":"/","3":"l","30":"r","31":"s","32":" ","33":"i","34":"n","35":" ","36":"y","37":"o","38":"u","39":"r","4":"d","40":" ","41":"M","42":"o","43":"n","44":"g","45":"o","46":"D","47":"B","48":" ","49":"A","5":" ","50":"t","51":"l","52":"a","53":"s","54":" ","55":"c","56":"l","57":"u","58":"s","59":"t","6":"n","60":"e","61":"r","62":".","63":" ","64":"O","65":"n","66":"e","67":" ","68":"c","69":"o","7":"o","70":"m","71":"m","72":"o","73":"n","74":" ","75":"r","76":"e","77":"a","78":"s","79":"o","8":"t","80":"n","81":" ","82":"i","83":"s","84":" ","85":"t","86":"h","87":"a","88":"t","89":" ","9":" ","90":"y","91":"o","92":"u","93":"'","94":"r","95":"e","96":" ","97":"t","98":"r","99":"y","level":"error","message":"MongoDB connection error:","timestamp":"2024-10-25 20:46:54"}
+{"level":"info","message":"========================================","timestamp":"2024-10-25 20:49:45"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-25 20:49:45"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-25 20:49:45"}
+{"level":"info","message":"========================================","timestamp":"2024-10-25 20:49:45"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-25 20:49:46"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 00:24:31"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-26 00:24:31"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-26 00:24:31"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 00:24:31"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-26 00:24:33"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 10:32:55"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-26 10:32:55"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-26 10:32:55"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 10:32:55"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-26 10:33:18"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 10:35:00"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-26 10:35:00"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-26 10:35:00"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 10:35:00"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 10:35:05"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-26 10:35:05"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-26 10:35:05"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 10:35:05"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-26 10:35:09"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 10:36:09"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-26 10:36:09"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-26 10:36:09"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 10:36:09"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-26 10:36:10"}
+{"level":"info","message":"POST /api/auth/signin","timestamp":"2024-10-26 10:41:59"}
+{"level":"info","message":"POST /api/auth/signup","timestamp":"2024-10-26 10:42:32"}
+{"level":"info","message":"POST /api/auth/signin","timestamp":"2024-10-26 10:43:03"}
+{"level":"info","message":"POST /api/auth/signout","timestamp":"2024-10-26 10:43:48"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 10:45:56"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-26 10:45:56"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-26 10:45:56"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 10:45:56"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-26 10:46:01"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 10:55:29"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-26 10:55:29"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-26 10:55:29"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 10:55:29"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-26 10:55:30"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 11:08:48"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-26 11:08:48"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-26 11:08:48"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 11:08:48"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-26 11:08:49"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 11:09:04"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-26 11:09:04"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-26 11:09:04"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 11:09:04"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-26 11:09:05"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 11:12:39"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-26 11:12:39"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-26 11:12:39"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 11:12:39"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-26 11:12:40"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 11:13:51"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-26 11:13:51"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-26 11:13:51"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 11:13:51"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-26 11:13:53"}
+{"level":"info","message":"POST /api/auth/signin","timestamp":"2024-10-26 11:14:28"}
+{"body":"{\r\n    \"name\" : \"Baba Ka Dhaba\",\r\n    \"no_of_orders\" : 100,\r\n    \"description\" : \"Tasy aur la jawab khana, Khao aur Kho jao !!!\",\r\n    \"owner_name\" : \"Guddu Pandit\",\r\n    \r\n}","expose":true,"level":"error","message":"Expected double-quoted property name in JSON at position 173 Expected double-quoted property name in JSON at position 173","stack":"SyntaxError: Expected double-quoted property name in JSON at position 173\n    at JSON.parse (<anonymous>)\n    at parse (C:\\Users\\ayush\\Documents\\AyushCodingWorld\\Tap2Order-Backend\\node_modules\\body-parser\\lib\\types\\json.js:92:19)\n    at C:\\Users\\ayush\\Documents\\AyushCodingWorld\\Tap2Order-Backend\\node_modules\\body-parser\\lib\\read.js:128:18\n    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)\n    at invokeCallback (C:\\Users\\ayush\\Documents\\AyushCodingWorld\\Tap2Order-Backend\\node_modules\\raw-body\\index.js:238:16)\n    at done (C:\\Users\\ayush\\Documents\\AyushCodingWorld\\Tap2Order-Backend\\node_modules\\raw-body\\index.js:227:7)\n    at IncomingMessage.onEnd (C:\\Users\\ayush\\Documents\\AyushCodingWorld\\Tap2Order-Backend\\node_modules\\raw-body\\index.js:287:7)\n    at IncomingMessage.emit (node:events:514:28)\n    at endReadableNT (node:internal/streams/readable:1408:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","status":400,"statusCode":400,"timestamp":"2024-10-26 11:16:19","type":"entity.parse.failed"}
+{"level":"info","message":"POST /api/vendor/","timestamp":"2024-10-26 11:16:40"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 11:17:01"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-26 11:17:01"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-26 11:17:01"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 11:17:01"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-26 11:17:02"}
+{"level":"info","message":"POST /api/vendor/","timestamp":"2024-10-26 11:17:06"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 11:17:53"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-26 11:17:53"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-26 11:17:53"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 11:17:53"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-26 11:17:55"}
+{"level":"info","message":"POST /api/vendor/","timestamp":"2024-10-26 11:18:14"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 11:19:50"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-26 11:19:50"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-26 11:19:50"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 11:19:50"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-26 11:19:51"}
+{"level":"info","message":"POST /api/vendor/","timestamp":"2024-10-26 11:20:01"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 11:20:23"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-26 11:20:23"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-26 11:20:23"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 11:20:23"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-26 11:20:25"}
+{"level":"info","message":"GET /api/vendor/671c8309ce17f813b4564cf4","timestamp":"2024-10-26 11:22:19"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 11:23:15"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-26 11:23:15"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-26 11:23:15"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 11:23:15"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-26 11:23:20"}
+{"level":"info","message":"GET /api/vendor/671c8309ce17f813b4564cf4","timestamp":"2024-10-26 11:24:55"}
+{"level":"info","message":"GET /api/vendor/671c8309ce17f813b4564cf4","timestamp":"2024-10-26 11:30:43"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 11:32:46"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-26 11:32:46"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-26 11:32:46"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 11:32:46"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-26 11:32:48"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 11:33:19"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-26 11:33:19"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-26 11:33:19"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 11:33:19"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-26 11:33:25"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 11:34:02"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-26 11:34:02"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-26 11:34:02"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 11:34:02"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-26 11:34:05"}
+{"level":"info","message":"POST /api/auth/signin","timestamp":"2024-10-26 11:39:23"}
+{"level":"info","message":"GET /api/vendor/671c8309ce17f813b4564cf4","timestamp":"2024-10-26 11:44:23"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 11:44:44"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-26 11:44:44"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-26 11:44:44"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 11:44:44"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-26 11:44:47"}
+{"level":"info","message":"GET /api/vendor/671c8309ce17f813b4564cf4","timestamp":"2024-10-26 11:44:59"}
+{"level":"info","message":"GET /api/vendor/671c8309ce17f813b4564cf4","timestamp":"2024-10-26 11:45:11"}
+{"level":"info","message":"GET /api/vendor/671c8309ce17f813b4564cf4","timestamp":"2024-10-26 11:45:16"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 11:48:08"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-26 11:48:08"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-26 11:48:08"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 11:48:08"}
+{"level":"info","message":"PUT /api/vendor/671c8309ce17f813b4564cf4","timestamp":"2024-10-26 11:48:39"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-26 11:48:58"}
+{"level":"info","message":"PUT /api/vendor/671c8309ce17f813b4564cf4","timestamp":"2024-10-26 11:49:13"}
+{"level":"info","message":"DELETE /api/vendor/671c8309ce17f813b4564cf4","timestamp":"2024-10-26 11:52:23"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 11:53:07"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-26 11:53:07"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-26 11:53:07"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 11:53:07"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-26 11:53:09"}
+{"level":"info","message":"POST /api/vendor/","timestamp":"2024-10-26 11:57:13"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 12:44:33"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-26 12:44:33"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-26 12:44:33"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 12:44:33"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-26 12:44:35"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 13:07:57"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-26 13:07:57"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-26 13:07:57"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 13:07:57"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-26 13:07:59"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 13:09:55"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-26 13:09:55"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-26 13:09:55"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 13:09:55"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-26 13:09:56"}
+{"level":"info","message":"POST /api/menu","timestamp":"2024-10-26 13:10:42"}
+{"level":"info","message":"POST /api/auth/signin","timestamp":"2024-10-26 13:10:52"}
+{"level":"info","message":"POST /api/menu","timestamp":"2024-10-26 13:11:03"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 13:11:47"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-26 13:11:47"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-26 13:11:47"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 13:11:47"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-26 13:11:48"}
+{"level":"info","message":"POST /api/menu","timestamp":"2024-10-26 13:11:51"}
+{"level":"info","message":"POST /api/menu","timestamp":"2024-10-26 13:12:26"}
+{"level":"info","message":"POST /api/menu","timestamp":"2024-10-26 13:13:23"}
+{"level":"info","message":"POST /api/menu","timestamp":"2024-10-26 13:13:39"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-26 13:14:44"}
+{"level":"info","message":"GET /api/menu/671c9d63b71105919b2aa68e","timestamp":"2024-10-26 13:15:49"}
+{"level":"info","message":"PUT /api/menu/671c9d63b71105919b2aa68e","timestamp":"2024-10-26 13:17:04"}
+{"level":"info","message":"DELETE /api/menu/671c9d63b71105919b2aa68e","timestamp":"2024-10-26 13:18:05"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 13:18:42"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-26 13:18:42"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-26 13:18:42"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 13:18:42"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-26 13:18:43"}
+{"level":"info","message":"DELETE /api/menu/671c9d40b71105919b2aa68a","timestamp":"2024-10-26 13:19:09"}
+{"level":"info","message":"POST /api/menu","timestamp":"2024-10-26 13:19:45"}
+{"level":"info","message":"POST /api/menu","timestamp":"2024-10-26 13:20:04"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-26 13:20:08"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-26 13:40:50"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 13:45:41"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-26 13:45:41"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-26 13:45:41"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 13:45:41"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-26 13:45:44"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 13:52:08"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-26 13:52:08"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-26 13:52:08"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 13:52:08"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-26 13:52:09"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 13:52:10"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-26 13:52:10"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-26 13:52:10"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 13:52:10"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-26 13:52:11"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 13:53:55"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-26 13:53:55"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-26 13:53:55"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 13:53:55"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-26 13:53:58"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 13:57:30"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-26 13:57:30"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-26 13:57:30"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 13:57:30"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-26 13:57:32"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 13:57:50"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-26 13:57:50"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-26 13:57:50"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 13:57:50"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-26 13:57:51"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 14:07:06"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-26 14:07:06"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-26 14:07:06"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 14:07:06"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-26 14:07:09"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 14:10:18"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-26 14:10:18"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-26 14:10:18"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 14:10:18"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-26 14:10:21"}
+{"level":"info","message":"POST /api/auth/signin","timestamp":"2024-10-26 14:16:17"}
+{"level":"info","message":"POST /api/cart","timestamp":"2024-10-26 14:16:32"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-26 14:16:49"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-26 14:16:57"}
+{"level":"info","message":"POST /api/cart","timestamp":"2024-10-26 14:17:51"}
+{"level":"info","message":"GET /api/cart","timestamp":"2024-10-26 14:18:49"}
+{"level":"info","message":"GET /api/cart","timestamp":"2024-10-26 14:19:38"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 14:20:11"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-26 14:20:11"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-26 14:20:11"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 14:20:11"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-26 14:20:13"}
+{"level":"info","message":"GET /api/cart","timestamp":"2024-10-26 14:20:16"}
+{"level":"info","message":"GET /api/cart/671cac680a266fc464693bf2","timestamp":"2024-10-26 14:21:26"}
+{"level":"info","message":"GET /api/cart/671cac680a266fc464693bf2","timestamp":"2024-10-26 16:13:49"}
+{"level":"info","message":"POST /api/auth/signin","timestamp":"2024-10-26 16:14:19"}
+{"level":"info","message":"GET /api/cart/671cac680a266fc464693bf2","timestamp":"2024-10-26 16:14:46"}
+{"level":"info","message":"PUT /api/cart/671cac680a266fc464693bf2","timestamp":"2024-10-26 16:16:21"}
+{"level":"info","message":"DELETE /api/cart/671cac680a266fc464693bf2","timestamp":"2024-10-26 16:20:37"}
+{"level":"info","message":"POST /api/cart","timestamp":"2024-10-26 16:21:05"}
+{"level":"info","message":"POST /api/cart","timestamp":"2024-10-26 16:21:11"}
+{"level":"info","message":"POST /api/cart","timestamp":"2024-10-26 16:37:49"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 16:59:11"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-26 16:59:11"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-26 16:59:11"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 16:59:11"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-26 16:59:13"}
+{"level":"info","message":"POST /api/cart","timestamp":"2024-10-26 16:59:49"}
+{"level":"info","message":"POST /api/cart","timestamp":"2024-10-26 16:59:54"}
+{"level":"info","message":"POST /api/auth/signin","timestamp":"2024-10-26 18:21:15"}
+{"level":"info","message":"POST /api/auth/signin/","timestamp":"2024-10-26 18:51:23"}
+{"level":"info","message":"POST /api/auth/signin/","timestamp":"2024-10-26 18:52:14"}
+{"level":"info","message":"POST /api/auth/signin/","timestamp":"2024-10-26 18:52:56"}
+{"level":"info","message":"POST /api/auth/signin/","timestamp":"2024-10-26 18:56:05"}
+{"level":"info","message":"POST /api/auth/signin/","timestamp":"2024-10-26 18:56:28"}
+{"level":"info","message":"POST /api/auth/signin","timestamp":"2024-10-26 18:57:36"}
+{"level":"info","message":"POST /api/auth/signin","timestamp":"2024-10-26 19:02:20"}
+{"level":"info","message":"POST /api/auth/signin","timestamp":"2024-10-26 19:07:08"}
+{"level":"info","message":"POST /api/auth/signin","timestamp":"2024-10-26 19:08:23"}
+{"level":"info","message":"POST /api/auth/signin","timestamp":"2024-10-26 19:11:47"}
+{"level":"info","message":"POST /api/auth/signin","timestamp":"2024-10-26 19:12:04"}
+{"level":"info","message":"POST /api/auth/signup","timestamp":"2024-10-26 19:32:12"}
+{"level":"info","message":"POST /api/auth/signup","timestamp":"2024-10-26 19:35:01"}
+{"level":"info","message":"POST /api/auth/signup","timestamp":"2024-10-26 19:39:59"}
+{"level":"info","message":"POST /api/auth/signin","timestamp":"2024-10-26 19:40:22"}
+{"level":"info","message":"POST /api/auth/signout","timestamp":"2024-10-26 20:09:18"}
+{"level":"info","message":"POST /api/auth/signin","timestamp":"2024-10-26 20:11:30"}
+{"level":"info","message":"POST /api/auth/signout","timestamp":"2024-10-26 20:11:51"}
+{"level":"info","message":"POST /api/auth/signin","timestamp":"2024-10-26 20:12:40"}
+{"level":"info","message":"POST /api/auth/signout","timestamp":"2024-10-26 20:12:47"}
+{"level":"info","message":"POST /api/auth/signin","timestamp":"2024-10-26 21:37:31"}
+{"level":"info","message":"POST /api/auth/signout","timestamp":"2024-10-26 22:23:12"}
+{"level":"info","message":"POST /api/auth/signin","timestamp":"2024-10-26 22:23:45"}
+{"level":"info","message":"POST /api/auth/signout","timestamp":"2024-10-26 22:47:13"}
+{"level":"info","message":"POST /api/auth/signin","timestamp":"2024-10-26 22:47:39"}
+{"level":"info","message":"POST /api/auth/signout","timestamp":"2024-10-26 22:47:54"}
+{"level":"info","message":"POST /api/auth/signin","timestamp":"2024-10-26 22:48:28"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 23:50:29"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-26 23:50:29"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-26 23:50:29"}
+{"level":"info","message":"========================================","timestamp":"2024-10-26 23:50:29"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-26 23:50:33"}
+{"level":"info","message":"POST /api/auth/signout","timestamp":"2024-10-27 00:13:20"}
+{"level":"info","message":"POST /api/auth/signin","timestamp":"2024-10-27 00:13:36"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 00:15:55"}
+{"level":"info","message":"POST /api/auth/signin","timestamp":"2024-10-27 00:22:01"}
+{"level":"info","message":"POST /api/vendor/","timestamp":"2024-10-27 00:23:55"}
+{"level":"info","message":"POST /api/vendor/","timestamp":"2024-10-27 00:24:55"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 00:25:34"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 00:25:34"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 00:25:34"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 00:25:34"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 00:25:36"}
+{"level":"info","message":"POST /api/vendor/","timestamp":"2024-10-27 00:25:39"}
+{"level":"info","message":"POST /api/vendor/","timestamp":"2024-10-27 00:31:14"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 00:32:05"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 00:32:05"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 00:32:05"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 00:32:05"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 00:32:08"}
+{"level":"info","message":"POST /api/vendor/","timestamp":"2024-10-27 00:32:11"}
+{"level":"info","message":"POST /api/vendor/","timestamp":"2024-10-27 00:36:00"}
+{"level":"info","message":"POST /api/auth/signin","timestamp":"2024-10-27 00:36:09"}
+{"level":"info","message":"POST /api/vendor/","timestamp":"2024-10-27 00:36:32"}
+{"level":"info","message":"POST /api/menu","timestamp":"2024-10-27 00:37:16"}
+{"level":"info","message":"POST /api/menu","timestamp":"2024-10-27 00:37:26"}
+{"level":"info","message":"POST /api/menu","timestamp":"2024-10-27 00:37:36"}
+{"level":"info","message":"POST /api/menu","timestamp":"2024-10-27 00:38:16"}
+{"level":"info","message":"POST /api/menu","timestamp":"2024-10-27 00:38:38"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 00:38:53"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 00:43:29"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 00:43:29"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 00:43:29"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 00:43:29"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 00:43:30"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 00:43:37"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 00:43:50"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 00:43:50"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 00:43:50"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 00:43:50"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 00:43:51"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 00:44:12"}
+{"level":"info","message":"POST /api/auth/signout","timestamp":"2024-10-27 02:28:23"}
+{"level":"info","message":"POST /api/auth/signin","timestamp":"2024-10-27 02:28:50"}
+{"level":"info","message":"GET /api/menu-null","timestamp":"2024-10-27 02:32:13"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 03:22:03"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 03:22:03"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 03:22:03"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 03:22:03"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 03:22:04"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 03:22:04"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 03:22:04"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 03:22:04"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 03:22:05"}
+{"level":"info","message":"POST /api/auth/signin","timestamp":"2024-10-27 03:22:20"}
+{"level":"info","message":"GET /api/vendor/","timestamp":"2024-10-27 03:22:45"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 03:24:51"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 03:24:51"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 03:24:51"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 03:24:51"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 03:24:53"}
+{"level":"info","message":"PUT /api/vendor/","timestamp":"2024-10-27 03:25:24"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 03:25:40"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 03:25:40"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 03:25:40"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 03:25:40"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 03:25:42"}
+{"level":"info","message":"PUT /api/vendor/","timestamp":"2024-10-27 03:25:46"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 03:26:12"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 03:26:12"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 03:26:12"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 03:26:12"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 03:26:15"}
+{"level":"info","message":"PUT /api/vendor/","timestamp":"2024-10-27 03:26:18"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 03:26:39"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 03:26:39"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 03:26:39"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 03:26:39"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 03:26:40"}
+{"level":"info","message":"PUT /api/vendor/","timestamp":"2024-10-27 03:26:43"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 03:28:15"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 03:28:15"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 03:28:15"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 03:28:15"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 03:28:17"}
+{"level":"info","message":"PUT /api/vendor/","timestamp":"2024-10-27 03:28:20"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 03:30:17"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 03:30:17"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 03:30:17"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 03:30:17"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 03:30:19"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 03:30:23"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 03:30:23"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 03:30:23"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 03:30:23"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 03:30:25"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 03:31:01"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 03:32:49"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 03:33:40"}
+{"level":"info","message":"GET /api/vendor/","timestamp":"2024-10-27 03:34:14"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 03:34:53"}
+{"level":"info","message":"GET /api/vendor/","timestamp":"2024-10-27 03:35:00"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 03:35:05"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 03:35:51"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 03:35:51"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 03:35:51"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 03:35:51"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 03:35:52"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 03:36:13"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 03:37:03"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 03:37:03"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 03:37:03"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 03:37:03"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 03:37:06"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 03:37:22"}
+{"level":"info","message":"POST /api/auth/signout","timestamp":"2024-10-27 03:38:12"}
+{"level":"info","message":"POST /api/auth/signout","timestamp":"2024-10-27 03:38:12"}
+{"level":"info","message":"POST /api/auth/signout","timestamp":"2024-10-27 03:38:12"}
+{"level":"info","message":"POST /api/auth/signout","timestamp":"2024-10-27 03:38:12"}
+{"level":"info","message":"POST /api/auth/signout","timestamp":"2024-10-27 03:38:12"}
+{"level":"info","message":"POST /api/auth/signout","timestamp":"2024-10-27 03:38:12"}
+{"level":"info","message":"POST /api/auth/signout","timestamp":"2024-10-27 03:38:12"}
+{"level":"info","message":"POST /api/auth/signout","timestamp":"2024-10-27 03:38:12"}
+{"level":"info","message":"POST /api/auth/signout","timestamp":"2024-10-27 03:38:12"}
+{"level":"info","message":"POST /api/auth/signout","timestamp":"2024-10-27 03:38:12"}
+{"level":"info","message":"POST /api/auth/signout","timestamp":"2024-10-27 03:38:12"}
+{"level":"info","message":"POST /api/auth/signout","timestamp":"2024-10-27 03:38:12"}
+{"level":"info","message":"POST /api/auth/signin","timestamp":"2024-10-27 03:38:36"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 03:38:39"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 03:38:56"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 03:38:56"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 03:38:56"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 03:38:56"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 03:38:57"}
+{"level":"info","message":"PUT /api/vendor/671d3d98d24c81c309f86357","timestamp":"2024-10-27 03:39:09"}
+{"level":"info","message":"PUT /api/vendor/671d3d98d24c81c309f86357","timestamp":"2024-10-27 03:41:07"}
+{"level":"info","message":"POST /api/auth/signin","timestamp":"2024-10-27 03:42:51"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 03:42:54"}
+{"level":"info","message":"POST /api/auth/signout","timestamp":"2024-10-27 03:42:58"}
+{"level":"info","message":"POST /api/auth/signin","timestamp":"2024-10-27 03:43:11"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 03:43:13"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 03:50:26"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 03:53:58"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 03:54:20"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 03:54:43"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 03:54:56"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 03:55:12"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 03:56:07"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 03:56:45"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 03:57:14"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 03:57:54"}
+{"level":"info","message":"PUT /api/vendor/671d3d98d24c81c309f86357","timestamp":"2024-10-27 03:58:02"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 03:59:56"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 03:59:56"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 03:59:56"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 03:59:56"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 03:59:57"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 04:00:08"}
+{"level":"info","message":"PUT /api/vendor/671d3d98d24c81c309f86357","timestamp":"2024-10-27 04:00:15"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 04:00:22"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 04:02:33"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 04:02:59"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 10:24:45"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 10:24:45"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 10:24:45"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 10:24:45"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 10:24:47"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 10:27:26"}
+{"level":"info","message":"POST /api/auth/signout","timestamp":"2024-10-27 10:27:52"}
+{"level":"info","message":"POST /api/auth/signin","timestamp":"2024-10-27 10:28:10"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 10:28:14"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 10:37:56"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 11:32:34"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 11:34:21"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 11:34:31"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 11:37:42"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 11:38:08"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 11:48:30"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 11:50:27"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 11:52:00"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 11:57:21"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 11:57:58"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 11:58:44"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 11:58:52"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 11:59:16"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 12:12:04"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 12:12:18"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 12:12:28"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 12:13:02"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 12:13:02"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 12:13:02"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 12:13:02"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 12:13:04"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 12:14:00"}
+{"level":"info","message":"POST /api/auth/signout","timestamp":"2024-10-27 12:15:29"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 12:15:47"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 12:15:47"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 12:15:47"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 12:15:47"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 12:15:48"}
+{"level":"info","message":"POST /api/auth/signin","timestamp":"2024-10-27 12:16:07"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 12:16:16"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 12:17:42"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 12:17:42"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 12:17:42"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 12:17:42"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 12:17:45"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 13:32:10"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 13:57:42"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 14:19:21"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 14:19:21"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 14:19:21"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 14:19:21"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 14:19:23"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 14:20:23"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 14:27:31"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 14:32:35"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 14:32:53"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 14:33:46"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 14:34:12"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 14:40:12"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 14:43:35"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 14:45:58"}
+{"level":"info","message":"POST /api/menu","timestamp":"2024-10-27 14:48:37"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 14:58:59"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 14:59:21"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 14:59:43"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 14:59:56"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 15:00:42"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 15:05:04"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 15:05:28"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 15:05:40"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 15:06:21"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 15:06:37"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 15:06:53"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 15:07:33"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 15:07:48"}
+{"level":"info","message":"POST /api/menu","timestamp":"2024-10-27 15:08:51"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 15:09:22"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 15:09:44"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 15:09:47"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 15:09:56"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 15:09:58"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 15:21:38"}
+{"level":"info","message":"PUT /api/menu/671e0a2cfeeaa76d17e9d78d","timestamp":"2024-10-27 15:22:04"}
+{"level":"info","message":"DELETE /api/menu/671e0a2cfeeaa76d17e9d78d","timestamp":"2024-10-27 15:22:47"}
+{"level":"info","message":"DELETE /api/menu/671e056dfeeaa76d17e9d755","timestamp":"2024-10-27 15:23:10"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 15:23:57"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 15:28:54"}
+{"level":"info","message":"POST /api/menu","timestamp":"2024-10-27 15:29:26"}
+{"level":"info","message":"PUT /api/menu/671e0efefeeaa76d17e9d7b7","timestamp":"2024-10-27 15:29:35"}
+{"level":"info","message":"DELETE /api/menu/671e0efefeeaa76d17e9d7b7","timestamp":"2024-10-27 15:29:45"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 15:30:16"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 16:19:52"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 16:19:52"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 16:19:52"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 16:19:52"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 16:19:58"}
+{"level":"info","message":"POST /api/auth/signin","timestamp":"2024-10-27 16:25:02"}
+{"level":"info","message":"POST /api/cart","timestamp":"2024-10-27 16:29:44"}
+{"level":"info","message":"GET /api/cart","timestamp":"2024-10-27 16:30:45"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 16:59:36"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 16:59:39"}
+{"level":"info","message":"POST /api/auth/signout","timestamp":"2024-10-27 16:59:43"}
+{"level":"info","message":"POST /api/auth/signin","timestamp":"2024-10-27 17:00:01"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 17:00:02"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 17:01:13"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 17:05:09"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 17:05:09"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 17:05:09"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 17:05:09"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 17:05:11"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 17:10:57"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 17:10:57"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 17:10:57"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 17:10:57"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 17:10:59"}
+{"level":"info","message":"GET /api/cart","timestamp":"2024-10-27 17:12:05"}
+{"level":"info","message":"GET /api/cart","timestamp":"2024-10-27 17:15:11"}
+{"level":"info","message":"GET /api/cart","timestamp":"2024-10-27 17:15:17"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 17:15:28"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 17:16:04"}
+{"level":"info","message":"GET /api/cart","timestamp":"2024-10-27 17:16:07"}
+{"level":"info","message":"GET /api/cart","timestamp":"2024-10-27 17:16:50"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 17:16:56"}
+{"level":"info","message":"GET /api/cart","timestamp":"2024-10-27 17:16:58"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 17:17:13"}
+{"level":"info","message":"POST /api/cart","timestamp":"2024-10-27 17:17:56"}
+{"level":"info","message":"GET /api/cart","timestamp":"2024-10-27 17:18:10"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 17:19:12"}
+{"level":"info","message":"GET /api/cart","timestamp":"2024-10-27 17:19:15"}
+{"level":"info","message":"GET /api/cart","timestamp":"2024-10-27 17:22:20"}
+{"level":"info","message":"GET /api/cart","timestamp":"2024-10-27 17:26:13"}
+{"level":"info","message":"PATCH /api/cart/671e1d20d06aa4a1eac97d0f","timestamp":"2024-10-27 17:26:24"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 17:27:27"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 17:27:27"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 17:27:27"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 17:27:27"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 17:27:30"}
+{"level":"info","message":"PATCH /api/cart/671e1d20d06aa4a1eac97d0f","timestamp":"2024-10-27 17:27:32"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 17:29:21"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 17:29:21"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 17:29:21"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 17:29:21"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 17:29:25"}
+{"level":"info","message":"PATCH /api/cart/671e1d20d06aa4a1eac97d0f","timestamp":"2024-10-27 17:29:28"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 17:30:05"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 17:30:05"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 17:30:05"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 17:30:05"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 17:30:06"}
+{"level":"info","message":"PATCH /api/cart/671e1d20d06aa4a1eac97d0f","timestamp":"2024-10-27 17:30:09"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 17:30:43"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 17:30:43"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 17:30:43"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 17:30:43"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 17:30:44"}
+{"level":"info","message":"PATCH /api/cart/671e1d20d06aa4a1eac97d0f","timestamp":"2024-10-27 17:30:47"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 17:31:27"}
+{"level":"info","message":"GET /api/cart","timestamp":"2024-10-27 17:31:29"}
+{"level":"info","message":"PATCH /api/cart/671e1d20d06aa4a1eac97d0f","timestamp":"2024-10-27 17:31:34"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 17:32:10"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 17:32:10"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 17:32:10"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 17:32:10"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 17:32:12"}
+{"level":"info","message":"PUT /api/cart/671e1d20d06aa4a1eac97d0f","timestamp":"2024-10-27 17:33:20"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 17:33:44"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 17:33:44"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 17:33:44"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 17:33:44"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 17:33:46"}
+{"level":"info","message":"PUT /api/cart/671e1d20d06aa4a1eac97d0f","timestamp":"2024-10-27 17:33:50"}
+{"level":"info","message":"PUT /api/cart/671e1d20d06aa4a1eac97d0f","timestamp":"2024-10-27 17:34:20"}
+{"level":"info","message":"PATCH /api/cart/671e1d20d06aa4a1eac97d0f","timestamp":"2024-10-27 17:35:23"}
+{"level":"info","message":"GET /api/cart","timestamp":"2024-10-27 17:39:03"}
+{"level":"info","message":"PUT /api/cart/671e1d20d06aa4a1eac97d0f","timestamp":"2024-10-27 17:39:07"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 17:39:20"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 17:39:20"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 17:39:20"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 17:39:20"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 17:39:23"}
+{"level":"info","message":"PUT /api/cart/671e1d20d06aa4a1eac97d0f","timestamp":"2024-10-27 17:40:05"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 17:41:15"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 17:41:15"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 17:41:15"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 17:41:15"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 17:41:16"}
+{"level":"info","message":"PUT /api/cart/671e1d20d06aa4a1eac97d0f","timestamp":"2024-10-27 17:41:19"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 17:41:36"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 17:41:36"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 17:41:36"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 17:41:36"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 17:41:38"}
+{"level":"info","message":"PUT /api/cart/671e1d20d06aa4a1eac97d0f","timestamp":"2024-10-27 17:41:41"}
+{"level":"info","message":"GET /api/cart","timestamp":"2024-10-27 17:42:31"}
+{"level":"info","message":"PUT /api/cart/671e1d20d06aa4a1eac97d0f","timestamp":"2024-10-27 17:42:38"}
+{"level":"info","message":"PUT /api/cart/671e1d20d06aa4a1eac97d0f","timestamp":"2024-10-27 17:42:40"}
+{"level":"info","message":"GET /api/cart","timestamp":"2024-10-27 17:42:55"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 17:43:08"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 17:43:08"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 17:43:08"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 17:43:08"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 17:43:09"}
+{"level":"info","message":"PUT /api/cart/671e1d20d06aa4a1eac97d0f","timestamp":"2024-10-27 17:43:11"}
+{"level":"info","message":"PUT /api/cart/671e1d20d06aa4a1eac97d0f","timestamp":"2024-10-27 17:43:13"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 17:43:21"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 17:43:21"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 17:43:21"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 17:43:21"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 17:43:22"}
+{"level":"info","message":"PUT /api/cart/671e1d20d06aa4a1eac97d0f","timestamp":"2024-10-27 17:43:24"}
+{"level":"info","message":"GET /api/cart","timestamp":"2024-10-27 17:44:40"}
+{"level":"info","message":"PUT /api/cart/671e1d20d06aa4a1eac97d0f","timestamp":"2024-10-27 17:44:58"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 17:45:12"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 17:45:12"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 17:45:12"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 17:45:12"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 17:45:15"}
+{"level":"info","message":"GET /api/cart","timestamp":"2024-10-27 17:48:12"}
+{"level":"info","message":"PUT /api/cart/671e1d20d06aa4a1eac97d0f","timestamp":"2024-10-27 17:48:21"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 17:48:33"}
+{"level":"info","message":"GET /api/cart","timestamp":"2024-10-27 17:51:24"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 17:59:18"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 17:59:20"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 18:00:04"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 18:00:06"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 18:02:37"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 18:02:38"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 18:15:52"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 18:16:14"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 18:16:16"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 18:16:46"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 18:16:47"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 18:16:49"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 18:16:51"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 18:16:52"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 18:18:55"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 18:25:35"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 18:26:52"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 18:39:55"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 18:40:46"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 18:41:01"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 18:41:16"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 18:42:39"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 18:43:40"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 18:43:47"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 18:45:52"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 18:46:09"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 18:46:44"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 18:52:39"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 18:53:04"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 18:55:32"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 18:56:05"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 18:56:14"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 18:57:10"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 19:01:24"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 19:01:48"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 19:02:56"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 19:05:09"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 19:08:24"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 19:11:54"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 19:12:07"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 19:13:51"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 19:15:19"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 19:17:02"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 19:17:09"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 19:19:06"}
+{"level":"info","message":"POST /api/auth/signin","timestamp":"2024-10-27 19:29:35"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 19:29:35"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 19:29:46"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 19:32:07"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 19:35:29"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 19:36:42"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 19:37:09"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 19:37:14"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 19:37:27"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 19:37:55"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 19:38:14"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 19:38:32"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 19:39:11"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 19:42:26"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 19:48:58"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 19:50:10"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 19:50:22"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 19:58:22"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 20:00:49"}
+{"level":"info","message":"POST /api/menu","timestamp":"2024-10-27 20:02:43"}
+{"level":"info","message":"PUT /api/menu/671e4f0c0335dc2ca1d7ca52","timestamp":"2024-10-27 20:03:07"}
+{"level":"info","message":"DELETE /api/menu/671e4f0c0335dc2ca1d7ca52","timestamp":"2024-10-27 20:03:16"}
+{"level":"info","message":"GET /api/cart","timestamp":"2024-10-27 20:03:20"}
+{"level":"info","message":"PUT /api/cart/671e286ca600d85c31365b83","timestamp":"2024-10-27 20:03:36"}
+{"level":"info","message":"PUT /api/cart/671e286ca600d85c31365b83","timestamp":"2024-10-27 20:03:57"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 20:04:04"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 20:04:45"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 20:10:55"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 20:11:30"}
+{"level":"info","message":"POST /api/cart","timestamp":"2024-10-27 20:11:37"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 20:13:40"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 20:13:40"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 20:13:40"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 20:13:40"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 20:13:43"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 20:13:55"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 20:13:55"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 20:13:55"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 20:13:55"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 20:13:56"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 20:15:10"}
+{"level":"info","message":"POST /api/cart","timestamp":"2024-10-27 20:15:17"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 20:17:38"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 20:24:50"}
+{"level":"info","message":"POST /api/cart","timestamp":"2024-10-27 20:24:59"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 20:26:42"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 20:27:55"}
+{"level":"info","message":"POST /api/cart","timestamp":"2024-10-27 20:28:14"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 20:38:31"}
+{"level":"info","message":"GET /api/cart","timestamp":"2024-10-27 20:38:38"}
+{"level":"info","message":"PUT /api/cart/671e51fd45581aa990bc415f","timestamp":"2024-10-27 20:38:48"}
+{"level":"info","message":"PUT /api/cart/671e544345581aa990bc416a","timestamp":"2024-10-27 20:38:49"}
+{"level":"info","message":"PUT /api/cart/671e51fd45581aa990bc415f","timestamp":"2024-10-27 20:38:51"}
+{"level":"info","message":"PUT /api/cart/671e544345581aa990bc416a","timestamp":"2024-10-27 20:38:52"}
+{"level":"info","message":"PUT /api/cart/671e550745581aa990bc4175","timestamp":"2024-10-27 20:38:55"}
+{"level":"info","message":"PUT /api/cart/671e550745581aa990bc4175","timestamp":"2024-10-27 20:38:56"}
+{"level":"info","message":"GET /api/cart","timestamp":"2024-10-27 20:39:20"}
+{"level":"info","message":"GET /api/cart","timestamp":"2024-10-27 20:39:39"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 20:45:02"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 21:36:50"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 21:36:50"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 21:36:50"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 21:36:50"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 21:36:52"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 21:43:35"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 21:43:35"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 21:43:35"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 21:43:35"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 21:43:40"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 21:44:24"}
+{"level":"info","message":"POST /api/cart","timestamp":"2024-10-27 21:44:40"}
+{"level":"info","message":"GET /api/cart/byOrderIds?orderIds=%5B%229778%22%5D","timestamp":"2024-10-27 21:44:41"}
+{"level":"info","message":"GET /api/cart/byOrderIds?orderIds=%5B%229778%22%5D","timestamp":"2024-10-27 21:46:13"}
+{"level":"info","message":"GET /api/cart/byOrderIds?orderIds=%5B%229778%22%5D","timestamp":"2024-10-27 21:46:30"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 21:47:40"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 21:47:40"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 21:47:40"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 21:47:40"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 21:47:41"}
+{"level":"info","message":"GET /api/cart/byOrderIds?orderIds=%5B%229778%22%5D","timestamp":"2024-10-27 21:48:21"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 21:49:16"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 21:49:16"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 21:49:16"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 21:49:16"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 21:49:18"}
+{"level":"info","message":"GET /api/cart/byOrderIds?orderIds=%5B%229778%22%5D","timestamp":"2024-10-27 21:49:36"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 21:50:31"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 21:50:31"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 21:50:31"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 21:50:31"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 21:50:33"}
+{"level":"info","message":"GET /api/cart/byOrderIds?orderIds=%5B%229778%22%5D","timestamp":"2024-10-27 21:50:41"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 21:53:55"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 21:53:55"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 21:53:55"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 21:53:55"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 21:54:00"}
+{"level":"info","message":"GET /api/cart/byOrderIds?orderIds=%5B%229778%22%5D","timestamp":"2024-10-27 21:54:09"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 21:54:45"}
+{"level":"info","message":"GET /api/cart","timestamp":"2024-10-27 21:54:48"}
+{"level":"info","message":"PUT /api/cart/671e66f10f48ba572b17395c","timestamp":"2024-10-27 21:54:58"}
+{"level":"info","message":"GET /api/cart/byOrderIds?orderIds=%5B%229778%22%5D","timestamp":"2024-10-27 21:55:06"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 21:55:34"}
+{"level":"info","message":"POST /api/cart","timestamp":"2024-10-27 21:55:42"}
+{"level":"info","message":"GET /api/cart/byOrderIds?orderIds=%5B%229778%22%2C%228555%22%5D","timestamp":"2024-10-27 21:55:43"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 21:55:58"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 21:55:59"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 21:56:05"}
+{"level":"info","message":"GET /api/cart","timestamp":"2024-10-27 21:56:07"}
+{"level":"info","message":"GET /api/cart/byOrderIds?orderIds=%5B%229778%22%2C%228555%22%5D","timestamp":"2024-10-27 21:56:21"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 21:58:00"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 21:58:00"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 21:58:00"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 21:58:00"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 21:58:07"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 22:11:51"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 22:13:19"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 22:13:47"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 22:14:06"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 22:14:18"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 22:14:32"}
+{"level":"info","message":"GET /api/cart/byOrderIds?orderIds=%5B%229778%22%2C%228555%22%5D","timestamp":"2024-10-27 22:17:04"}
+{"level":"info","message":"POST /api/auth/signup","timestamp":"2024-10-27 22:46:19"}
+{"level":"info","message":"POST /api/auth/signin","timestamp":"2024-10-27 22:46:43"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 22:46:44"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 22:47:33"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 22:47:36"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 22:48:05"}
+{"level":"info","message":"POST /api/cart","timestamp":"2024-10-27 22:48:21"}
+{"level":"info","message":"GET /api/cart/byOrderIds?orderIds=%5B%221974%22%5D","timestamp":"2024-10-27 22:48:22"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 22:48:52"}
+{"level":"info","message":"GET /api/cart","timestamp":"2024-10-27 22:48:54"}
+{"level":"info","message":"PUT /api/cart/671e75ddd1f7d377106fc76f","timestamp":"2024-10-27 22:49:09"}
+{"level":"info","message":"GET /api/cart/byOrderIds?orderIds=%5B%221974%22%5D","timestamp":"2024-10-27 22:49:28"}
+{"level":"info","message":"PUT /api/cart/671e75ddd1f7d377106fc76f","timestamp":"2024-10-27 22:49:34"}
+{"level":"info","message":"GET /api/cart/byOrderIds?orderIds=%5B%221974%22%5D","timestamp":"2024-10-27 22:50:12"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 22:50:29"}
+{"level":"info","message":"GET /api/cart/byOrderIds?orderIds=%5B%221974%22%5D","timestamp":"2024-10-27 22:52:47"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 22:52:57"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 22:58:26"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 22:59:56"}
+{"level":"info","message":"POST /api/menu","timestamp":"2024-10-27 23:01:42"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 23:03:15"}
+{"level":"info","message":"GET /api/cart","timestamp":"2024-10-27 23:03:37"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 23:03:43"}
+{"level":"info","message":"PUT /api/vendor/671d3d98d24c81c309f86357","timestamp":"2024-10-27 23:04:20"}
+{"level":"info","message":"PUT /api/vendor/671d3d98d24c81c309f86357","timestamp":"2024-10-27 23:04:51"}
+{"level":"info","message":"PUT /api/vendor/671d3d98d24c81c309f86357","timestamp":"2024-10-27 23:05:28"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 23:09:11"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 23:09:24"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 23:09:54"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 23:10:08"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 23:11:25"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 23:11:42"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 23:11:50"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 23:11:55"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 23:12:08"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 23:12:13"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 23:12:26"}
+{"level":"info","message":"PUT /api/vendor/671d3d98d24c81c309f86357","timestamp":"2024-10-27 23:12:57"}
+{"level":"info","message":"GET /api/cart/byOrderIds?orderIds=%5B%229778%22%2C%228555%22%5D","timestamp":"2024-10-27 23:13:30"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 23:13:58"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 23:14:04"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 23:14:13"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 23:14:19"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 23:14:23"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 23:14:37"}
+{"level":"info","message":"POST /api/cart","timestamp":"2024-10-27 23:14:53"}
+{"level":"info","message":"GET /api/cart/byOrderIds?orderIds=%5B%229778%22%2C%228555%22%2C%224387%22%5D","timestamp":"2024-10-27 23:14:53"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 23:15:10"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 23:15:12"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 23:15:17"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 23:15:18"}
+{"level":"info","message":"POST /api/auth/signout","timestamp":"2024-10-27 23:15:20"}
+{"level":"info","message":"POST /api/auth/signup","timestamp":"2024-10-27 23:15:54"}
+{"level":"info","message":"POST /api/auth/signin","timestamp":"2024-10-27 23:16:09"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 23:16:10"}
+{"level":"info","message":"POST /api/menu","timestamp":"2024-10-27 23:16:42"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 23:18:42"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 23:18:42"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 23:18:42"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 23:18:42"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 23:18:44"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 23:19:30"}
+{"level":"info","message":"POST /api/menu","timestamp":"2024-10-27 23:19:49"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 23:26:21"}
+{"level":"info","message":"=========== ENV: Development ===========","timestamp":"2024-10-27 23:26:21"}
+{"level":"info","message":"🚀 App listening on the port 5000 🚀","timestamp":"2024-10-27 23:26:21"}
+{"level":"info","message":"========================================","timestamp":"2024-10-27 23:26:21"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2024-10-27 23:26:23"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 23:27:18"}
+{"level":"info","message":"POST /api/menu","timestamp":"2024-10-27 23:27:32"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 23:29:26"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 23:29:31"}
+{"level":"info","message":"POST /api/vendor","timestamp":"2024-10-27 23:29:56"}
+{"level":"info","message":"POST /api/menu","timestamp":"2024-10-27 23:30:12"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 23:31:11"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 23:35:48"}
+{"level":"info","message":"POST /api/auth/signout","timestamp":"2024-10-27 23:35:52"}
+{"level":"info","message":"POST /api/auth/signin","timestamp":"2024-10-27 23:40:54"}
+{"level":"info","message":"POST /api/auth/signup","timestamp":"2024-10-27 23:41:55"}
+{"level":"info","message":"POST /api/auth/signin","timestamp":"2024-10-27 23:42:06"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 23:42:07"}
+{"level":"info","message":"POST /api/vendor","timestamp":"2024-10-27 23:42:34"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 23:43:05"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 23:43:09"}
+{"level":"info","message":"POST /api/menu","timestamp":"2024-10-27 23:43:27"}
+{"level":"info","message":"POST /api/menu","timestamp":"2024-10-27 23:44:19"}
+{"level":"info","message":"GET /api/cart","timestamp":"2024-10-27 23:44:22"}
+{"level":"info","message":"POST /api/auth/signout","timestamp":"2024-10-27 23:44:31"}
+{"level":"info","message":"POST /api/auth/signin","timestamp":"2024-10-27 23:44:50"}
+{"level":"info","message":"GET /api/vendor","timestamp":"2024-10-27 23:44:50"}
+{"level":"info","message":"POST /api/auth/signout","timestamp":"2024-10-27 23:45:10"}
+{"level":"info","message":"GET /api/menu","timestamp":"2024-10-27 23:45:25"}
+{"level":"info","message":"POST /api/cart","timestamp":"2024-10-27 23:45:33"}
+{"level":"info","message":"GET /api/cart/byOrderIds?orderIds=%5B%229778%22%2C%228555%22%2C%224387%22%2C%223530%22%5D","timestamp":"2024-10-27 23:45:34"}
